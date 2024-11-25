@@ -1,0 +1,185 @@
+
+header{
+    background-color:rgb(178, 96, 255);
+    padding-bottom: 0% 1%;
+    position: sticky;
+    top: 0;
+    right: 0;
+}
+body{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+#h2Title{
+     color:rgb(133, 255, 255);
+
+     width: 100%;
+    
+}
+#backroundimaged{
+    border-radius: 40px;
+    width: 80%;
+    margin-top: 4px;
+   
+}
+
+
+
+.backrondfoto{
+    width: 97%;
+    margin: 0 auto;
+    height: 15vw;
+    background-image: url(./img/nbyn\ lik.png);
+    border-radius: 10px;
+    margin-top: 1px;
+   background-size:100%;
+
+   box-shadow: 0 70px 70px 1px rgb(232, 175, 224);
+    
+}
+.h33{
+    color: rgb(169, 94, 45);
+}
+
+.imagedyali{
+    margin: 0 auto;
+    width: 10%;
+    text-align: center;
+    border-radius: 20px;
+
+
+}
+
+.bgbg{
+    background-color: rgb(196, 237, 238);
+    width:  90%;
+    border-radius: 20px;
+}
+
+
+footer b{
+    color: aliceblue;
+}
+.inputnew{
+     padding-left: 50px;
+}
+ input{
+    border-radius: 8px;
+    width: 100%;
+    border: 0px solid beige;
+    padding: 2% 1%;
+    margin-bottom: 1%;
+
+}
+#textarea{
+    border-radius: 8px;
+    width: 100%;
+    border: 0px solid beige;
+    padding: 2% 1%;
+    margin-bottom: 1%;
+    padding-left: 50px;
+}
+.discreption{
+    border-right: 2px solid rgb(214, 211, 184);
+}
+#bdiscreption{
+    font-size: 20px;
+}
+.submit1{
+    color: aquamarine;
+    background-color: #e37aef;
+}
+.submit1:hover{
+    background-color: #e600ff;
+}
+
+footer{
+ width: 97%;
+ text-align: center;
+ background-color: #ee5cff ;
+ margin: 3% auto;
+ border-radius: 20px;
+}
+.bgbg:hover{
+    background-color: rgb(53, 240, 240);
+}
+.div-input{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+
+.progects{
+    margin-top: 19px;
+}
+
+a :hover{
+    box-shadow: 0 0 20px 10px rgb(94, 21, 212);
+    border-color: rgb(218, 41, 209);
+}
+table{
+    width: 100%;
+    margin: 2px auto;
+    text-align: center;
+    margin-top: 8px;
+}
+#MyName{
+    text-align: center;
+    color: bisque;
+}
+#upwork{
+    border-radius: 10px;
+    margin-right: 3%;
+
+}
+.news{
+    text-align: center;
+    
+}
+iframe{
+    border-radius: 15px;
+}
+.mtl:hover{
+    box-shadow: 0 0 20px 10px rgb(241, 92, 231);
+    border-color: rgb(218, 41, 209);
+    width: 100%;
+    background-color: rgb(241, 92, 231);
+}
+
+.secilmidia{
+   text-align: center;
+}
+
+.mtl{
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 95%;
+    margin: 4px;
+    background-color: rgb(232, 203, 165);
+    color: rgb(116, 25, 234);
+}
+
+hr{
+    width: 92%;
+    border: 20px ridge black;
+    
+
+}
+.hrd{
+    margin-left: 9%;
+}
+
+.last{
+    background-color: #e819ff;
+    color: azure;
+    padding: 1% ;
+    border-radius: 20px;
+    text-align: center;
+
+}
